@@ -26,7 +26,7 @@ Nel progetto:
 
 ### DAO (Data Access Object)
 
-Il DAO gestisce l'accesso diretto ai dati, come un database o una collezione. Contiene operazioni **CRUD**:
+Il DAO gestisce l'accesso diretto ai dati, come un database. Contiene operazioni **CRUD**:
 - `Create`: `salva(Ospite ospite)`
 - `Read`: `trovaPerNome(String nome)`
 - `Update`: `aggiorna(Ospite ospiteAggiornato)`
