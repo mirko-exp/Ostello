@@ -1,4 +1,4 @@
-# Svolgimento - Progetto "Gestione Ospiti Ostello"
+# Svolgimento - Progetto "Ospiti Ostello"
 
 ## Obiettivo del progetto
 
